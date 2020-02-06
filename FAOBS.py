@@ -1,5 +1,5 @@
 '''
-Author: Kexin Shang (Jasmine) - RA
+Author: Kexin Shang (Jasmine) - RA (2019 Winter Break)
 This File help to generate the series which originally from Old FAO Balance Sheets(1961-2013) and New Balance Sheets (2014-2017).
 There are four functions which help you generate total 156 series from the Balance Sheets.
 Before you run the functions, make sure you have these files below in your current folder:
